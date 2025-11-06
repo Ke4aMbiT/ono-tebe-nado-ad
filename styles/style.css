@@ -101,7 +101,6 @@ main {
     flex-direction: column;
     gap: 20px;
     color: #FFF;
-    font-weight: bold;
     font-size: 100px;
     line-height: 1.15;
     letter-spacing: 30px;
@@ -260,7 +259,7 @@ main {
 }
 
 .about__column_text {
-    grid-column: 2/4;   
+    grid-column: 2/4;
 }
 
 .about__logo {
@@ -329,3 +328,4 @@ main {
     gap: 48px;
     list-style: none;
 }
+
