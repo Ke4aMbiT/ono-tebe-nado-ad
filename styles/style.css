@@ -287,12 +287,24 @@ main {
 .footer {
     display: flex;
     justify-content: space-between;
-    padding: 180px 50px 82px;
+    padding: 180px 50px 82.8px;
 }
 
 .footer__menu-list {
     list-style: none;
     text-align: center;
+}
+
+.text-link {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24.3px;
+}
+
+.address__address-text {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24.3px;
 }
 
 .footer__menu-link {
