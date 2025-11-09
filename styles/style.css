@@ -279,7 +279,6 @@ main {
 
 .about__text p {
     font-family: "Raleway";
-    line-height: 1.35;
     font-size: 20px;
     line-height:24px;
 }
@@ -326,3 +325,4 @@ main {
 .footer__social-icon {
     height: 48px;
 }
+
